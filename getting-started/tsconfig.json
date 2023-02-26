@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true,
+  },
+
+}
+
+// @ts-check
+
+// typescriptlang.org > tools > TSConfig Reference
+// typescriptlang.org > Playground
