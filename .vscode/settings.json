@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "javascript.referencesCodeLens.enabled": true,
+  "typescript.implementationsCodeLens.enabled": true,
+  // "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  // "typescript.inlayHints.parameterNames.enabled": "literals",
+  // "typescript.inlayHints.parameterTypes.enabled": true,
+  // "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  // "typescript.inlayHints.variableTypes.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#b99898",
+    "editorInlayHint.foreground": "#2e2c2c"
+  }
+}
